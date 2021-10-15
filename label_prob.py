@@ -1,6 +1,6 @@
 # Creation Data    :    19/11/2020
 # Last Modification:    22/11/2020
-# Authors          :    'EN NIARI SAAD' & 'LAHRIFA Walid'
+# Authors          :    'LAHRIFA Walid'
 # Short Description:    Programming 'Community detection' Algorithm
 
 
